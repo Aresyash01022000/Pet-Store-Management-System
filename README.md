@@ -1,7 +1,7 @@
 # Pet-Store-Management-System
 
 The pets store contains many different types of pets and some products related  to pets. 
-1. Individual Pets: - 
+1. Individual Pets: - <br>
 ♦ Every pet will have a unique pet number, age, and its condition. <br>
 ♦ Every pet has its cage number. <br>
 ♦ A pet is identified by its unique pet number and its cage number. <br>
@@ -14,7 +14,6 @@ The pets store contains many different types of pets and some products related  
 ♦ Each Customer gets a unique customer id. <br>
 ♦ Customer can Buy pets or pre order them if they are not available.  It will be stored in the database. <br>
 ♦ One copy of amount paid will be given to customer and one copy  will be stored in our database.<br>
-
-
-# Output Link : 
+<hr>
+<h3>Output Link :</h3> 
 https://docs.google.com/document/d/1sNBFRtLVauphEU9TrsdQ1KysHICQ2ZmxmCbpBP8w8FM/edit?usp=sharing
